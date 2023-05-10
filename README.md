@@ -2,6 +2,7 @@
 Mod that allows you to load dynamic libraries in GD.
 Download [Apk tool](https://ibotpeaches.github.io/Apktool/) and use it to decompile Geometry Dash.
 Edit the main class by adding the method below.
+API level 28+.
 
 ```
 # virtual methods
