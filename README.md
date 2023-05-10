@@ -56,5 +56,5 @@ Add the code below to the main method.
 invoke-virtual {p0}, Lcom/robtopx/geometryjump/GeometryJump;->initMods()V
 ```
 
-Then transfer what you downloaded to Smali. Compile the geometry dash and sign the apk.
-As an example of a dynamic library, you can install [this mod](https://github.com/FlairyDash/rgb-icons-mod), transfer it to the GDModLoader folder that was created in the phone's memory.
+Then put what you downloaded to Smali. Compile the geometry dash and sign the apk.
+As an example of a dynamic library, you can install [this mod](https://github.com/FlairyDash/rgb-icons-mod), put it to the GDModLoader folder that was created in the phone's memory.
