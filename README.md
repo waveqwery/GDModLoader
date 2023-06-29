@@ -43,7 +43,7 @@ API level 28+.
 
     move-result-object v0
 
-    invoke-static {v0}, Lcom/robtopx/geometryjump/GeometryJump;->LoadLibs(Ljava/lang/String;)V
+    invoke-static {v0}, Lru/krazy/gdml/GeometryDashLoaderLibs;->LoadLibs(Ljava/lang/String;)V
 
     .line 19
     return-void
