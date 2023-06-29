@@ -57,7 +57,7 @@ Add the code below to the main method.
 invoke-virtual {p0}, Lcom/robtopx/geometryjump/GeometryJump;->initMods()V
 ```
 
-Add the following permissions to the manifest:
+Add the following permissions to the manifest.
 ```
 <uses-permission
     android:name="android.permission.READ_EXTERNAL_STORAGE" />
